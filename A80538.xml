@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The copie of three petitions as they were presented to the Honourable, the Commons assembled in Parliament, September 14th. and 15th. 1647. 1. From, the county of Bucks, against two great oppressions, viz. Tythes, and free-quarter. 2. From the county of Oxford. 3. From Oxford, Bucks, and Hertford, for purging the great Fountain of Justice: that at last, justice might run down the land like a stream, to wash away the pollutions thereof.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80538</idno>
+            <idno type="STC">Wing C6232</idno>
+            <idno type="STC">Thomason E407_29</idno>
+            <idno type="STC">ESTC R204653</idno>
+            <idno type="EEBO-CITATION">99864118</idno>
+            <idno type="PROQUEST">99864118</idno>
+            <idno type="VID">160519</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80538)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160519)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 64:E407[29])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The copie of three petitions as they were presented to the Honourable, the Commons assembled in Parliament, September 14th. and 15th. 1647. 1. From, the county of Bucks, against two great oppressions, viz. Tythes, and free-quarter. 2. From the county of Oxford. 3. From Oxford, Bucks, and Hertford, for purging the great Fountain of Justice: that at last, justice might run down the land like a stream, to wash away the pollutions thereof.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Larnar, and are to be sold at the Black-Moor, neer Bishops-gate.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>MDCXLVII. [1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "7ber [i.e. September] 20.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tithes --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Buckinghamshire (England) --  History --  Early works to 1800.</term>
+               <term>Oxfordshire (England) --  History --  Early works to 1800.</term>
+               <term>Hertfordshire (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160519:1" rendition="simple:additions"/>
+            <p>THE COPIE OF THREE PETITIONS As they were preſented to the Honourable, the Com<g ref="char:EOLhyphen"/>mons aſſembled in Parliament, <hi>September</hi> 14<hi rend="sup">th</hi>. and 15<hi rend="sup">th</hi>. 1647.</p>
+            <list>
+               <item>1. From the County of <hi>Bucks,</hi> againſt two great oppreſſions, <hi>viz.</hi> Tythes, and Free-quarter.</item>
+               <item>2. From the County of <hi>Oxford.</hi>
+               </item>
+               <item>3. From <hi>Oxford, Bucks,</hi> and <hi>Hertford,</hi> for purging the great Fountain of Juſtice: that at laſt, <hi>Juſtice might run down the Land like a ſtream, to waſh away the pollutions thereof.</hi>
+               </item>
+            </list>
+            <p>LONDON, Printed for <hi>William Larnar,</hi> and are to be ſold at the Black-Moor, neer Biſhopſ-gate. MDCXLVII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:160519:2"/>
+            <pb n="1" facs="tcp:160519:2"/>
+            <head>TO THE HONOURABLE THE Commons aſſembled in Parliament.</head>
+            <head type="sub">The humble Petition, of the Inhabitants of the County of <hi>Bucks.</hi>
+            </head>
+            <opener>Sheweth,</opener>
+            <p>THat your Petitioners have for their good affection to the Par<g ref="char:EOLhyphen"/>liament and publick intereſt of the Kingdom, gone through many difficulties, and been expoſed to much danger in their per<g ref="char:EOLhyphen"/>ſons, beſides their great impoveriſhing and weakning of their e<g ref="char:EOLhyphen"/>ſtates; and now that God hath ſubdued the common enemy, and given hopes of a well-grounded peace, they hope to have reaped the fruits thereof, by the removall of all common grievances, and the enjoying a freedom in their eſtates, in ſome meaſure anſwera<g ref="char:EOLhyphen"/>ble to the price they have paid, and the many hazards they have undergone, but ſtill finde their expectations almoſt fruſtrate, by reaſon of the heavy burthen that lies upon your Petitioners, by the continuing of Tithes upon them, going under the notion of the tenth of their increaſe, but is really (the Rents, Charges and Loſſes conſidered) the third part of the yeerly value of their Lands in til<g ref="char:EOLhyphen"/>lage: and your Petitioners condition is made now more grievous, by reaſon of this unequall payment is ſtrengthned by ſeveral Or<g ref="char:EOLhyphen"/>dinances lately paſſed for that purpoſe, which cauſeth the greateſt part of the whole eſtates of your Petitioners to be in the diſpoſing of the Juſtices of Peace, (many of which are intereſſed in Tythes, if refuſall be made of that which amounts to a third part of their eſtates, to the great diſcouragement of your Petitioners and others that are Owners or Farmers of Land in Tillage, and wherein much of the welfare of this Kingdom doth conſiſt.)</p>
+            <p>Your Petitioners likewiſe ſtill undergo a heavy burthen, by reaſon of the Free-quarter taken amongſt us, by the Army, and if not timely prevented (by the conſtant paying of the Army) will be the ruine of them, and their Families, and bring a far greater
+<pb n="2" facs="tcp:160519:3"/>burthen and charge upon this Kingdome, then the conſtant pay<g ref="char:EOLhyphen"/>ment of the Army would amount unto.</p>
+            <p>Your Petitioners therefore moſt humbly pray this Honour<g ref="char:EOLhyphen"/>able Houſe to take their ſad condition into your pious conſider<g ref="char:EOLhyphen"/>ation, and to make proviſion for removall of the payment of Tythes, leaving it to your wiſdomes to conſider of a more e<g ref="char:EOLhyphen"/>quall and peaceable way for the maintaining of the Miniſtery, and rendring a reaſonable ſatisfaction for the impropriations: And that you will be pleaſed to eaſe your Petitioners, and all other that are ſufferers by Free quarter, by the conſtant pay<g ref="char:EOLhyphen"/>ment of the Army, either by your further Authoritie to compell the Collection of money in Arrear, or by ſome other Taxes to be impoſed, that the ſouldiers having a conſtant ſupply of mo<g ref="char:EOLhyphen"/>ney, may make their own proviſions in ſuch places as are moſt commodiouſly fitted for their entertainment.</p>
+            <closer>And your Petitioners ſhall ever pray.</closer>
+         </div>
+         <div type="petition">
+            <head>TO THE HONOURABLE THE HOUSE of Commons in Parliament aſſembled.</head>
+            <head type="sub">The Petition of the Inhabitants of <hi>Oxford-shire,</hi>
+            </head>
+            <opener>Sheweth,</opener>
+            <p>THat amidſt the various diſpenſations of Divine providence, in the diverſity of bleſſings confer'd upon mankind, nothing ren<g ref="char:EOLhyphen"/>ders more delight and content to mans naturall affections, then li<g ref="char:EOLhyphen"/>berty, and peculiarly in his externall enjoyments, the want of which (as experience tells us) renders an irkſom, yea an intolle<g ref="char:EOLhyphen"/>rable condition, effecting exclaimation and complaint of oppreſſi<g ref="char:EOLhyphen"/>on with ſighs, ſobbs and groans for Liberty.</p>
+            <p>Now among the reſt of thoſe ſore preſſing grievances under which this Nation hath been long ſubjected, there is one of heavy
+<pb n="3" facs="tcp:160519:3"/>weight, endeavouring irrecoverably to ſink and drown our whole eſtates and livelyhoods in that common and vaſt ocean of oppreſ<g ref="char:EOLhyphen"/>ſion and cruelty, <hi>(viz.)</hi> The uſurped and conſtrained maintain<g ref="char:EOLhyphen"/>ance of our Lordly-rich-Miniſters, and Annual revennues of in<g ref="char:EOLhyphen"/>croaching impropriators, by that intollerable tax and oppreſſion of taking away part of our Stock and years hard labour, under the notion of Tythes, Offerings, Oblations, Obventions, Church-dues, or Tenths of increaſe, whereby there is taken from us the tenth of our dayly earnings, by the ſweat of our brows, the tenth of our ſubſtance and ſtock, in the tenth of our crop, wherein our ſtock and years labour ly, yea though our crop anſwer not our charge by many degrees, and the year never ſo unſeaſonable, yet is the tenth thereof taken from us, without any conſideration of our loſſes or deduction of our charge, ſo that at the length, the rich Parſon be<g ref="char:EOLhyphen"/>ing a man of many hundreds, yea ſomtimes of thouſands per An<g ref="char:EOLhyphen"/>num, poſſeſſeth himſelf of our whole ſtock and ſubſtance, where<g ref="char:EOLhyphen"/>by we are forced to lay down our Trade of Tillage, and put either to ſhifts, or day labour, for our ſelves and families.</p>
+            <p>And there is that makes heavier this our intollerable oppreſſion and burden, rendering it more burthenſome then before, <hi>(viz.)</hi> A late additionall Ordinance, commanding the continuance of this direfull oppreſſion, paſſed by thoſe that wee have thus long looked and waited upon, and whom wee have aſſiſted with our perſons and purſes, endangering our lives, and leaving our liveli<g ref="char:EOLhyphen"/>hoods, expecting future eaſe and reformation: yet wee ſtill finde men Judges in their own cauſes, whereby we are ſenſible of much oppreſſion, injuſtice, and Arbitraryneſſe: men exacting, and ille<g ref="char:EOLhyphen"/>gally recovering what we find directly contrary to the <hi>Doctrine of the Goſpel,</hi> and the power of Godlines, which though however required, or recovered by Magiſtrates, we conceive our ſelves and others, in Conſcience and Covenant, bound to extirpate as Popiſh, and in nature as oppreſſive.</p>
+            <p>And many of us being men of mean eſtates, in Tillage, and al<g ref="char:EOLhyphen"/>moſt ſwallowed up in our eſtates, by Taxations, Plundering, Quar<g ref="char:EOLhyphen"/>tering of Souldiers in the time of war, and now alſo at Free quar<g ref="char:EOLhyphen"/>ter: yet if wee but ſue for, and ſeeke after Liberty in our owne (which in nature we are bound to do, it being our proper and na<g ref="char:EOLhyphen"/>turall right,) and to refuſe bondage and thraldom, which we can<g ref="char:EOLhyphen"/>not
+<pb n="4" facs="tcp:160519:4"/>but do, our conditions are thereby many degrees worſe, and our dammages greater then before.</p>
+            <p>Even at this time, many of us ly under unnumerable Judge<g ref="char:EOLhyphen"/>ments, and the time of Execution almoſt expired, which unleſſe the Ordinances commanding the payment of Tythes, be ſpeedily repealed, will be executed.</p>
+            <p>It is therefore our humble and earneſt deſire that it would pleaſe your Honours to take the premiſes into your ſerious and ſpeedy conſideration, and haſten the application of ſuch remedy as may tend to Gods glo<g ref="char:EOLhyphen"/>ry, and the good of your Petitioners, wherewith you are intruſted, by the ſpeedy ſtoppage of ſuch Judge<g ref="char:EOLhyphen"/>ments as are iſſued out againſt your Petitioners, which if not granted, wil ſuddainly be executed, contrary to Chriſtian and Subjects liberty, in the property of their good.</p>
+            <closer>And your Petitioners ſhall ever pray, &amp;c.</closer>
+         </div>
+         <div type="petition">
+            <pb n="5" facs="tcp:160519:4"/>
+            <head>TO THE HONOURABLE THE HOUSE Of Commons, aſſembled in Parliament.</head>
+            <head type="sub">The humble Petition of divers Well affected Inhabitants of the Counties of <hi>Oxon, Bucks,</hi> and <hi>Hertford.</hi>
+            </head>
+            <opener>Sheweth,</opener>
+            <p>THat this poor bleeding Nation hath had its expectations of Peace and Freedom, long fruſtrated, and its burdens and mi<g ref="char:EOLhyphen"/>ſeries increaſt, by the preſence, power, and prevalency of ſome deſperate enemies to publick good in the ſupreme Councel; And that lately Divine Providence hath made a clear diſcovery of ma<g ref="char:EOLhyphen"/>ny of them, by their ſitting at <hi>Weſtminſter</hi> uſurping a Parliamen<g ref="char:EOLhyphen"/>tary power, when the free Parliament was forc'd away and ſuſ<g ref="char:EOLhyphen"/>pended, and endeavouring by pretended Votes; Orders, and Ordinances, to have raiſed a new bloudy war, and brought the King forthwith to London upon his own terms, to the danger of ruining all well affected people; Hereby giving a fair opportunity to this Honourable Houſe to have expell'd thoſe Incendiaries.</p>
+            <p>But to the grief of our hearts we underſtand, that this happy opportunity of removing thoſe Obſtructors of all that really tends to the peoples good, hath hitherto been neglected, and notwithſtanding the urgent importunity of the Army for their removal, many of them ſit and Vote in this Honourable Houſe, and others that are now abſent, have liberty to return, when they ſhall ſee their advantage to proſecute their wicked intentions.</p>
+            <p>And we cannot but conceive that from the prevalency of thoſe ill-affected perſons in the Houſe, have proceeded thoſe dange<g ref="char:EOLhyphen"/>rous delaies (ſince the free Parliament was brought to <hi>Weſtminſter</hi> in ſafety by the Army) in clearing and ſecuring the Peoples rights and freedoms, and that grievous and intollerably burdenſom Or<g ref="char:EOLhyphen"/>dinance for enforcing all to pay treble damages that ſhall refuſe (though for Conſcience ſake) to pay tythes. Conſidering there<g ref="char:EOLhyphen"/>fore that our ſad experience witneſs, that none of the juſt deſires of the people can be expected to be anſwered [ſeeing we cannot prevail after ſome yeers ſolicitation, that the burden of paying
+<pb n="6" facs="tcp:160519:5"/>Tythes ſhould be removed from our Conſciences] nor a happy Peace ſealed, in caſe theſe Incendiaries be permitted to Vote in this Honourable Houſe.</p>
+            <p>We are inforc'd to intreat you, that the way that God hath in goodneſs opened to free the Nation from the power of its Ene<g ref="char:EOLhyphen"/>mies in this great Councel, may be forthwith conſidered, and that it be immediately declared, that all and every of thoſe per<g ref="char:EOLhyphen"/>ſons that lately ſate at <hi>Weſtminſter,</hi> when the Paliament was by force ſuſpended, ſhall incur ſome great penalty, in caſe any of them ſhall preſume, after this day, to ſit in this Honourable Houſe, before they ſhall have given ſatisfaction concerning their aforeſaid ſitting in the pretended Parliament, and ſhall have given ſuf<g ref="char:EOLhyphen"/>ficient evidence that they did neither procure, nor give their con<g ref="char:EOLhyphen"/>ſent to any of thoſe pretended Votes, Orders, or Ordinances, tend<g ref="char:EOLhyphen"/>ing to the levying of a new war; or for the Kings forthwith com<g ref="char:EOLhyphen"/>ing to London.</p>
+            <p>That thus the obſtructers of Juſtice being ſpeedily removed, Juſtice may bee executed on offenders, and without any further protraction of time, the loud cries of the oppreſſed Pri<g ref="char:EOLhyphen"/>ſoners may have free and impartial audience to their effectual re<g ref="char:EOLhyphen"/>demption, the intollerable burdens of the diſtreſſed Commons on their Conſcience and Eſtates might be removed; a conſtant certain pay for the Army in an equal way provided; and the peace and freedom of the Nation firmly eſtabliſhed.</p>
+            <closer>And your Petitioners ſhall truly pray, <hi>&amp;c.</hi>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
